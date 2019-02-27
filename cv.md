@@ -32,14 +32,13 @@ something about me
      * Linux (Debian-based distros).   
 
 ## 5. Software projects   
-
-● NSI (stack: Delphi, Borland Database Engine, SQL; year: 1998) - maintenance of regulatory and reference information of the enterprise for the production of reinforced concrete products and structures.
-● RomeNBH (stack: Delphi 7; year: 2011) - region-lock patcher for firmware files for HTC Rome smartphone. Search region-lock signature and change it for compatibility with RU-region firmware.
-● SubaruDTC (stack: Delphi 7; year: 2013) - analyze firmware binary file from Subaru cars with Denso ECU and create xml-definition for editing error map of firmware.
-● Some of spiders on Python (dnk.by, unistar.by, vetervremeni.by, onliner.by, 5element.by, funtastik.by, siemens.ru, etc. (stack: Python 3.5, grab, mysql, re, base64, PIL image lib, urllib, selenium, mongoDB, BS4)
-● Energenie library (stack: Python 3.5, requests, argparse; year: 2017) - library for remote control smart sockets Energenie series EG-PM2-LAN, EG-PMS2-LAN, EGM-PWM-LAN, EG-PMS2-WLAN, EG-PM1W-001. Capabilities: login/logout to smart socket, on/off/revert power, get sockets status.
-● Telegram bots (stack: Python 2.7/3.5, requests, subprocess, os, random, energenie; year: 2016-2017) - a  Telegram platform test, provides random jokes, takes them from the bash.im site, and bot for sending language file for internationalization Telegram interface in Android & iOS devices, remote control of sockets, take photos from ip-cams, reading data from sensors. Works on any computer with the Internet, does not require a dedicated white ip-address.
-● onliner.by competitors analytic (stack: Python 3.5, csv, requests, xlwt, configparser, argparse - core, Delphi RAD Studio 10.2 – GUI for edit ini-file; year: 2015-2019) - processing of prices, analysis of competitors prices, creation of analytic files and recommended prices for online store, upload/download data files via REST API.
+   * NSI (stack: Delphi, Borland Database Engine, SQL; year: 1998) - maintenance of regulatory and reference information of the enterprise for the production of reinforced concrete products and structures.   
+   * RomeNBH (stack: Delphi 7; year: 2011) - region-lock patcher for firmware files for HTC Rome smartphone. Search region-lock signature and change it for compatibility with RU-region firmware.   
+   * SubaruDTC (stack: Delphi 7; year: 2013) - analyze firmware binary file from Subaru cars with Denso ECU and create xml-definition for editing error map of firmware.   
+   * Some of spiders on Python (dnk.by, unistar.by, vetervremeni.by, onliner.by, 5element.by, funtastik.by, siemens.ru, etc. (stack: Python 3.5, grab, mysql, re, base64, PIL image lib, urllib, selenium, mongoDB, BS4).   
+   * Energenie library (stack: Python 3.5, requests, argparse; year: 2017) - library for remote control smart sockets Energenie series EG-PM2-LAN, EG-PMS2-LAN, EGM-PWM-LAN, EG-PMS2-WLAN, EG-PM1W-001. Capabilities: login/logout to smart socket, on/off/revert power, get sockets status.   
+   * Telegram bots (stack: Python 2.7/3.5, requests, subprocess, os, random, energenie; year: 2016-2017) - a  Telegram platform test, provides random jokes, takes them from the bash.im site, and bot for sending language file for internationalization Telegram interface in Android & iOS devices, remote control of sockets, take photos from ip-cams, reading data from sensors. Works on any computer with the Internet, does not require a dedicated white ip-address.   
+   * onliner.by competitors analytic (stack: Python 3.5, csv, requests, xlwt, configparser, argparse - core, Delphi RAD Studio 10.2 – GUI for edit ini-file; year: 2015-2019) - processing of prices, analysis of competitors prices, creation of analytic files and recommended prices for online store, upload/download data files via REST API.
 
 ## 6. Career summary   
 
