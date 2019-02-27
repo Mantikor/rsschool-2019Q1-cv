@@ -14,22 +14,22 @@
 something about me
 
 ## 4. Skills   
-     * Python3,   
-     * Delphi 7/Embarcadero RAD Studio,   
-     * BDE,   
-     * SQL (Sqlite, PostgreSQL, MySQL),   
-     * NoSQL (mongoDB),   
-     * HTML/CSS/JS,   
-     * Git.   
-     * IDE:   
-       * JetBrains PyCharm,   
-       * MS VS Code,   
-       * IDLE,   
-       * Notepad++.   
-     * Can read code and little write: Java, C#, C++.   
-     * OS stack:   
-       * MS Windows 7 - 10,   
-       * Linux (Debian-based distros).   
+   * Python3,   
+   * Delphi 7/Embarcadero RAD Studio,   
+   * BDE,   
+   * SQL (Sqlite, PostgreSQL, MySQL),   
+   * NoSQL (mongoDB),   
+   * HTML/CSS/JS,   
+   * Git.   
+   * IDE:   
+     * JetBrains PyCharm,   
+     * MS VS Code,   
+     * IDLE,   
+     * Notepad++.   
+   * Can read code and little write: Java, C#, C++.   
+   * OS stack:   
+     * MS Windows 7 - 10,   
+     * Linux (Debian-based distros).   
 
 ## 5. Software projects   
 
