@@ -61,26 +61,7 @@ Key Responsibilities:
 ● acceptance and delivery of equipment from repair, diagnostics;
 ● installation and adjustment of software for laptops and PC.
 
- Electronic Certificates
-Stepik.org:
-
-    "Analysis of the security of web projects",
-    "Basics of  setting a task for the development of programs",
-    "Web technologies",
-    "Python: basics and applications",
-    "JavaScript for beginers",
-    "Hadoop. A system for processing big data",
-    "Gamification".
-
-SoloLearn.com:
-
-    "PHP Tutorial",
-    "SQL Fundamentals",
-    "Python 3 Tutorial",
-    "JavaScript Tutorial",
-    "Java Tutorial".
-
-## 7. Education:   
+## 7. Education   
    * 1999 – 2001 Belarusian National Technical University.
    Faculty "Information Technologies and Robotics",
    Specialization "Information Technologies Software Support".
@@ -89,11 +70,8 @@ SoloLearn.com:
    Information Technologies and software.
    Specialization  "Information Technologies Software Support".
    Diploma: "Fire mail system - lightweight GUI e-mail client for MS Windows"
+   
+   Electronic Certificates: Stepik.org ("Analysis of the security of web projects", "Basics of  setting a task for the development of programs", "Web technologies", "Python: basics and applications", "JavaScript for beginers", "Hadoop. A system for processing big data", "Gamification"), SoloLearn.com ("PHP Tutorial", "SQL Fundamentals", "Python 3 Tutorial", "JavaScript Tutorial", "Java Tutorial").
 
 ## 8. English level   
-   Other details
-Languages: Russian, English.
-Marital status: married, two children.
-Interests include: reading, autosport, strikeball, travels, bike riding, DIY.
-
-References are available on request
+   I read professional literature, write, spoken - in process now.
