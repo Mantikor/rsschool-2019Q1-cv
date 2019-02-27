@@ -4,11 +4,11 @@
    Siarhei Straltsou
 
 ## 2. Contacts   
-   location:​ Minsk, Belarus
-   email:​ ​straltsou.siarhei@gmail.com
-   mobile: ​+375 29 6123216
-   skype:​ mantik0r
-   github:​ https://github.com/Mantikor
+   * location: Minsk, Belarus    
+   * email: straltsou.siarhei@gmail.com   
+   * mobile: +375296123216   
+   * skype: mantik0r   
+   * github: https://github.com/Mantikor
 
 ## 3. Summary   
 something about me
