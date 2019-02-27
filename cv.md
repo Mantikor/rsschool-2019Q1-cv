@@ -1,4 +1,3 @@
-
 #Siarhei Straltsou CV, ver. 0.1
 
 ##1. Name
