@@ -8,7 +8,7 @@
    * email: straltsou.siarhei@gmail.com   
    * mobile: +375296123216   
    * skype: mantik0r   
-   * github: https://github.com/Mantikor
+   * github: [https://github.com/Mantikor](https://github.com/Mantikor)
 
 ## 3. Summary   
 something about me
@@ -42,16 +42,16 @@ something about me
 
 ## 6. Career summary   
 
-**Jun 2018 - now, 100Nuts Ltd.**, www.100nuts.ai, Software engineer/Python developer.   
+**Jun 2018 - now, 100Nuts Ltd.**, [100nuts.ai](http://100nuts.ai), Software engineer/Python developer.   
 Creating, maintenance and support software for parsing data from a wide range of sites (Python 3.5, MongoDB, data parsing frameworks).
 
-**Aug 2017 - Oct 2018, JSC 'Belenergoremnaladka'**, www.bern.by, Delphi developer.   
+**Aug 2017 - Oct 2018, JSC 'Belenergoremnaladka'**, [www.bern.by](http://www.bern.by), Delphi developer.   
 Completion, maintenance and support of a software package for the calculation of TEP for Thermal power plant (Embarcadero Delphi 10). Auxiliary software (Python 3).
 
 **Dec 2016 – Aug 2017, self-employed**.   
 Support the onliner.by competitors analytic project, developed on Python 3.5 (GUI for setup on Delphi). Support some projects for own use.
 
-**Jan 2012 – Nov 2016, JSC 'First Service Technology'**, service center 'rempark.by', sw & hw engineer.   
+**Jan 2012 – Nov 2016, JSC 'First Service Technology'**, service center [rempark.by](htt://rempark.by), sw & hw engineer.   
 Repair of mobile terminals (software and hardware), update and restore firmware with service software, experience with programmers, including JTAG, reading schematic diagrams, installation and adjustment of software for laptops and PC.
 
 ## 7. Education   
