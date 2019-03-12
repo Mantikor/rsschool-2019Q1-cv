@@ -10,6 +10,12 @@ html, body {
   box-sizing: border-box;
 }
 
+.block { 
+    width: 1024px;
+    margin:0 auto;
+    text-align:left;
+}
+  
 ul {
   margin: 20;
   padding: 0;
@@ -57,9 +63,7 @@ li {
 .footer {
   margin-top: 4rem;
   padding: 0.5rem 0;
-
   color: #ffffff;
-
   background-color: rgb(56, 56, 56);
 }
 
@@ -69,13 +73,12 @@ li {
     padding: 0;
   }
 
-  .page {
+.page {
     display: flex;
     flex-wrap: nowrap;
     padding-top: 2rem;
   }
 
-  .user-section {
+.user-section {
     padding-right: 2rem;
-  }
 }
